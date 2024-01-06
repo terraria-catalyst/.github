@@ -4,7 +4,7 @@ We are a group of Terraria modders looking to improve user experience through a 
 
 **Support us on:**
 
-- [Patreon](https://patreon.com/CatalystTeam).
+- [Patreon](https://patreon.com/TeamCatalyst).
 
 ## Nitrate
 
