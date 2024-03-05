@@ -1,4 +1,4 @@
-# Catalyst Team
+# Team Catalyst
 
 We are a group of Terraria modders looking to improve user experience through a variety of means. We are currently focusing on *Nitrate*, a performance optimization mod for Terraria using tModLoader.
 
@@ -8,8 +8,8 @@ We are a group of Terraria modders looking to improve user experience through a 
 
 ## Nitrate
 
-> [terraria-catalyst/Nitrate](https://github.com/terraria-catalyst/Nitrate)
+> [terraria-catalyst/Nitrate](https://github.com/terraria-catalyst/nitrate-mod)
 
 ---
 
-An aggressive optimization mod for Terraria that moves a lot of rendering to the GPU, parallelizes many calculations, and (when possible) swaps out XNA numerics types with the JIT intrinsic/SIMD-accelerated `System.Numerics` types. Still in its infancy, *Nitrate* is being worked on constantly with the goal to speed up the game as much as possible without damaging user experience.
+Nitrate is an optimization mod for tModLoader. It focuses on increasing and stabilizing frame rates through changes to rendering and update logic. Nitrate does not specialize in any specific areas, and intends to cover the entire game at some point in the future.
